@@ -7,6 +7,11 @@
 		"abi": [
 			{
 				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
 				"name": "message",
 				"outputs": [
 					{
@@ -73,11 +78,11 @@
 	},
 	"sources": {
 		"contracts/4HelloWorld.sol": {
-			"keccak256": "0xed29de6e4af5f19601ffddedd3aff148f34dd2b98aed352db3963faed4459e06",
+			"keccak256": "0x828495050d9ec0bd615c4fda4fed839931b9720a560a24762e111a8a53ae1413",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://30f620deee13984047d7e152a2d539d05bf79e135365c2787d29f291f92ac3e2",
-				"dweb:/ipfs/QmUJBW7vRW8YqPXqzQaUkCy7RXT6wBP46G1P7XQg3A5ncH"
+				"bzz-raw://c76b1832b2a35ad479a2fd42a581af3e452654c92a5f83890256d18f36927d7c",
+				"dweb:/ipfs/QmZrsDeeqAmUtkw8PnpW4Mc7zq1jJX9GLZ4qaN4c7TfRhi"
 			]
 		}
 	},
