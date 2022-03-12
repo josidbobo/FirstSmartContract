@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "message",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_message",
+						"type": "string"
+					}
+				],
+				"name": "setMessage",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "viewMessage",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/4HelloWorld.sol": "HelloWorld"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/4HelloWorld.sol": {
+			"keccak256": "0xed29de6e4af5f19601ffddedd3aff148f34dd2b98aed352db3963faed4459e06",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://30f620deee13984047d7e152a2d539d05bf79e135365c2787d29f291f92ac3e2",
+				"dweb:/ipfs/QmUJBW7vRW8YqPXqzQaUkCy7RXT6wBP46G1P7XQg3A5ncH"
+			]
+		}
+	},
+	"version": 1
+}
