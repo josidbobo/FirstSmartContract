@@ -4,9 +4,7 @@ pragma solidity ^0.8.7;
 contract HelloWorld{
     string public message;
 
-    constructor() public{
-        
-    }
+    constructor() public{}
 
     function setMessage(string memory _message) public{
         message = _message;
