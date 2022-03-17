@@ -17,4 +17,4 @@ To run a script, right click on file name in the file explorer and click 'Run'. 
 
 Output from script will appear in remix
 
-My etherscan link: https://rinkeby.etherscan.io/address/0x9c46b0b4c9c5bc05e1d5fed021f28147c4f3f8c9
+MyEtherscan link: https://rinkeby.etherscan.io/address/0x9c46b0b4c9c5bc05e1d5fed021f28147c4f3f8c9
