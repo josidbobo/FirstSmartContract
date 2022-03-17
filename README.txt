@@ -15,6 +15,6 @@ Scripts have full access to the web3.js and ethers.js libraries.
 
 To run a script, right click on file name in the file explorer and click 'Run'. Remember, Solidity file must already be compiled.
 
-Output from script will appear in remix terminal.
+Output from script will appear in remix
 
-My EtherScan address: https://rinkeby.etherscan.io/tx/0x03b110c7fc70dca9c424f03cbd56bd69a2bdd47dd74e4c482639d6844d4bd553
+My etherscan link: https://rinkeby.etherscan.io/address/0x9c46b0b4c9c5bc05e1d5fed021f28147c4f3f8c9
